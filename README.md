@@ -22,18 +22,16 @@ A simple weather application that allows users to search for the current weather
 
 2. Obtain an API key from OpenWeather.
 
-Open the project folder and replace the apiKey variable in the JavaScript file with your own API key.
-const apiKey = 'your_openweather_api_key';
+ Open the project folder and replace the apiKey variable in the JavaScript file with your own API key.
+ *( const apiKey = 'your_openweather_api_key'; )
 
 3. Open index.html in a web browser.
 
-Enter a city name in the input field and click the search button to get the weather information.
+  Enter a city name in the input field and click the search button to get the weather information.
+   
+   Here's a simple and effective README.md file for your weather app:
 
 
-
-Here's a simple and effective README.md file for your weather app:
-
-markdown
 
 
 
